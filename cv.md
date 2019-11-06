@@ -31,7 +31,7 @@
 
 ## Education
 |Year| Degree|
-|:----|:-----:|
+|:----:||:-----:|
 |2019- | Computer Science undergraduate studies in Unversity of Helsinki|
 |2019 | Bachelor of science in Computer Science with Bachelors Honours Diploma, University of Helsinki|
 |2015| Matriculation examination (ylioppilastutkinto) Karhulan Lukio| 
