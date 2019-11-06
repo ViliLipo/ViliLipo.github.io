@@ -22,7 +22,7 @@
 ## Goals
 
 - An industrious first year Computer science graduate looking for a summer job
-- I advance my skills invidually
+- I advance my skills individually
 - I am quick to adapt new practices
 - I have experience in professional cooperation and leadership positions.
 - I have made software architecture decisions in real and hobby projects
@@ -33,7 +33,7 @@
 
 |Year| Degree|
 |:----:|:-----|
-|2019- | Computer Science undergraduate studies in Unversity of Helsinki|
+|2019- | Computer Science undergraduate studies in University of Helsinki|
 |2019 | Bachelor of science in Computer Science with Bachelors Honours Diploma, University of Helsinki|
 |2015| Matriculation examination (ylioppilastutkinto) Karhulan Lukio| 
 
@@ -49,17 +49,17 @@
 ## IT-Skills
 - Office Word, Excel, Powerpoint (fluent)
 - LaTex, BibTex, Beamer
-- Operating Systems Windows10(advanced),  I have been using Linux daily for 3 years.
+- Operating Systems Windows10 (advanced),  I have been using Linux daily for 3 years.
 - Much experience with Python, Javascript and Java
 - Recent experience with React-Native, React, React-Redux and Node.js
 - Experienced git user
 
 ## Language Skills
-finnish(native), english(fluent), swedish(basics)
+Finnish (native), English (fluent), Swedish (basics)
 
 ## Other remarks
 
-- Conscription: 07/2015-06/2016, overal personal evalution: creditable, received leadership training.
+- Conscription: 07/2015-06/2016, overall personal evaluation: creditable, received leadership training.
 - Finnish Drivers licence class: **B**
 - Hobbies: Outdoors, exercise, passionate home cook, programming, computer games.
 - I use Arch Linux **btw**.
