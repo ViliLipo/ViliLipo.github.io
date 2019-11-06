@@ -11,7 +11,7 @@
     <dl>
      <dt> Vili Lipo </dt>
      <dt>vili.lipo@helsinki.fi</dt>
-     <dt>https://github.com/ViliLipo</dt>
+     <dt><a href="https://github.com/ViliLipo">ViliLipo in Github</a></dt>
      <dt>Living in Helsinki</dt>
      <dt>Please ask for more detailed contact information via email.</dt>
     </dl>
